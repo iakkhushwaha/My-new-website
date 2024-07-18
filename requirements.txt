@@ -1,0 +1,11 @@
+Flask==3.0.3
+Flask_Bootstrap==3.3.7.1
+Flask_CKEditor==1.0.0
+Flask_Gravatar==0.5.0
+Flask_Login==0.6.3
+Flask_Security==3.0.0
+flask_sqlalchemy==3.1.1
+flask_wtf==1.2.1
+SQLAlchemy==2.0.31
+Werkzeug==3.0.3
+WTForms==3.1.2
